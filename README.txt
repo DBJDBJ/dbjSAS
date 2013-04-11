@@ -33,8 +33,7 @@
 
     NOTE: This extensions provide more functionality. More functionality is less speed.
 
-	Blog post about history etc and containing jsFiddle test bed is here
-	http://dbj.org/dbj/?p=1532
+	TEST is here :	http://jsfiddle.net/dbjdbj/PPTED/
 	
 PS: this is how it all started: http://dbj.org/dbj/?p=85
 
