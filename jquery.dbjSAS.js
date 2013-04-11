@@ -33,6 +33,8 @@
 */
 
 (function(Sizzle) {
+	
+	top.dbj = top.dbj || {} ; top.dbj["SAS"] = "dbj Sizzle Attribute Selectors extended 1.0.0" ;
 
     var Expr = Sizzle.selectors;
 
