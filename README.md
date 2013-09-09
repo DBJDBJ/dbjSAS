@@ -1,5 +1,6 @@
 
-    dbj Enhanced Attribute Selectors (aka dbjSAS or SAS) for Sizzle/jQuery
+    # dbj Enhanced Attribute Selectors   
+	##(aka dbjSAS or SAS) for Sizzle/jQuery  
 
     Version: 1.0.1
     Copyright (c) 2009 Balazs Endresz (BE) (balazs.endresz@gmail.com)
